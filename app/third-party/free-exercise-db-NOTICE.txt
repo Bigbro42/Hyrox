@@ -1,0 +1,3 @@
+Exercise photos in media/exercises/ are taken from Free Exercise DB
+https://github.com/yuhonas/free-exercise-db
+released under The Unlicense (public domain dedication): https://unlicense.org/
